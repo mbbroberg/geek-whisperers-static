@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	>
+<channel>
+	<title>
+	Comments on: Online and Offline Community at Matt&#8217;s Wedding &#8211; Episode 116	</title>
+	<atom:link href="/2016/07/online-and-offline-community-at-matts-wedding-episode-116/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/07/online-and-offline-community-at-matts-wedding-episode-116/</link>
+	<description>The Podcast of Technology Careers, Cultures, and Lives</description>
+	<lastBuildDate>Thu, 28 Jul 2016 16:17:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+</channel>
+</rss>

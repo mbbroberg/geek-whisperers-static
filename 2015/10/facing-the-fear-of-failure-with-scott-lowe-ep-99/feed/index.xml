@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	>
+<channel>
+	<title>
+	Comments on: Thrive by Learning New Skills with Scott Lowe &#8211; Ep 99	</title>
+	<atom:link href="/2015/10/facing-the-fear-of-failure-with-scott-lowe-ep-99/feed/" rel="self" type="application/rss+xml" />
+	<link>/2015/10/facing-the-fear-of-failure-with-scott-lowe-ep-99/</link>
+	<description>The Podcast of Technology Careers, Cultures, and Lives</description>
+	<lastBuildDate>Wed, 04 Nov 2015 13:20:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: 3 Reasons I’m Learning a Programming Language &#124; Neckbeard Influence		</title>
+		<link>/2015/10/facing-the-fear-of-failure-with-scott-lowe-ep-99/#comment-104476</link>
+
+		<dc:creator><![CDATA[3 Reasons I’m Learning a Programming Language &#124; Neckbeard Influence]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2015 13:20:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1222#comment-104476</guid>
+
+					<description><![CDATA[[&#8230;] ~ Scott Lowe from a recent Geek Whisperers [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] ~ Scott Lowe from a recent Geek Whisperers [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	>
+<channel>
+	<title>
+	Comments on: How to Publicly Resign as a Tech Evangelist &#8211; Kenneth Hui Ep 105	</title>
+	<atom:link href="/2016/03/how-to-publicly-resign-as-a-tech-evangelist-kenneth-hui-ep-105/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/03/how-to-publicly-resign-as-a-tech-evangelist-kenneth-hui-ep-105/</link>
+	<description>The Podcast of Technology Careers, Cultures, and Lives</description>
+	<lastBuildDate>Mon, 28 Mar 2016 15:01:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Mission Accomplished: I Am Coming Home &#124; Cloud Architect Musings		</title>
+		<link>/2016/03/how-to-publicly-resign-as-a-tech-evangelist-kenneth-hui-ep-105/#comment-110789</link>
+
+		<dc:creator><![CDATA[Mission Accomplished: I Am Coming Home &#124; Cloud Architect Musings]]></dc:creator>
+		<pubDate>Mon, 28 Mar 2016 15:01:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1315#comment-110789</guid>
+
+					<description><![CDATA[[&#8230;] many would consider a huge gamble and decided to quit my job at Platform9 and make public, through social media, my job search. As part of that decision to rely on my community of technologists to help [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] many would consider a huge gamble and decided to quit my job at Platform9 and make public, through social media, my job search. As part of that decision to rely on my community of technologists to help [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

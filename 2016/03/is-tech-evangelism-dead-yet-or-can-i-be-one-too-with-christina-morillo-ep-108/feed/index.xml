@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	>
+<channel>
+	<title>
+	Comments on: Is Tech Evangelism Dead Yet Or Can I Be One Too? with Christina Morillo &#8211; Ep 108	</title>
+	<atom:link href="/2016/03/is-tech-evangelism-dead-yet-or-can-i-be-one-too-with-christina-morillo-ep-108/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/03/is-tech-evangelism-dead-yet-or-can-i-be-one-too-with-christina-morillo-ep-108/</link>
+	<description>The Podcast of Technology Careers, Cultures, and Lives</description>
+	<lastBuildDate>Wed, 06 Apr 2016 21:49:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Mark Browne		</title>
+		<link>/2016/03/is-tech-evangelism-dead-yet-or-can-i-be-one-too-with-christina-morillo-ep-108/#comment-111026</link>
+
+		<dc:creator><![CDATA[Mark Browne]]></dc:creator>
+		<pubDate>Wed, 06 Apr 2016 21:49:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1345#comment-111026</guid>
+
+					<description><![CDATA[Great podcast, and really good advice regarding job moves.  Glad to be back listening to you guys. I have been away too long.]]></description>
+			<content:encoded><![CDATA[<p>Great podcast, and really good advice regarding job moves.  Glad to be back listening to you guys. I have been away too long.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

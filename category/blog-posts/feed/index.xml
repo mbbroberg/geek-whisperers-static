@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+
+<channel>
+	<title>Podcast</title>
+	<atom:link href="/category/blog-posts/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/blog-posts/</link>
+	<description>Main Podcast</description>
+	<lastBuildDate>Thu, 10 Aug 2017 21:22:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/01/cropped-geek-whisperers-bw-logo-32x32.png</url>
+	<title>Podcast</title>
+	<link>/category/blog-posts/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:summary>The Geek Whisperers work every day with enterprise IT professionals. In Season 2 of the show, the grew centers on talking about careers: particularly about the career success of high tech leaders who have navigated the nonlinear career path. Listen, enjoy and please be sure to share. &lt;br /&gt;
+&lt;br /&gt;
+Join John Troyer, Amy Lewis, and Matthew Brender as they share their experiences, stories, and what&#039;s worked for them as they do their daily jobs as Geek Whisperers.</itunes:summary>
+	<itunes:author>Podcast</itunes:author>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:image href="/wp-content/uploads/2016/01/geek-whisperers-bw-logo.jpg" />
+	<itunes:owner>
+		<itunes:name>Podcast</itunes:name>
+	</itunes:owner>
+	<copyright>Copyright 2013 John Troyer, Amy Lewis, Matthew Brender. All Rights Reserved.</copyright>
+	<podcast:license>Copyright 2013 John Troyer, Amy Lewis, Matthew Brender. All Rights Reserved.</podcast:license>
+	<podcast:medium>podcast</podcast:medium>
+	<itunes:subtitle>The Podcast of career success in Enterprise IT</itunes:subtitle>
+	<image>
+		<title>Podcast</title>
+		<url>/wp-content/uploads/2016/01/geek-whisperers-bw-logo.jpg</url>
+		<link>/category/blog-posts/</link>
+	</image>
+	<itunes:category text="Business">
+		<itunes:category text="Careers" />
+	</itunes:category>
+	<googleplay:category text="Business"/>
+	<rawvoice:location>Coast to Coast</rawvoice:location>
+	<podcast:location>Coast to Coast</podcast:location>
+	<rawvoice:frequency>Weekly</rawvoice:frequency>
+	<podcast:podping usesPodping="true" />
+	<podcast:guid>00350179-7088-5f05-98ca-2629db92357b</podcast:guid>
+	<item>
+		<title>What a Long Strange Trip It’s Been</title>
+		<link>/2017/08/what-a-long-strange-trip-its-been/</link>
+					<comments>/2017/08/what-a-long-strange-trip-its-been/#comments</comments>
+		
+		<dc:creator><![CDATA[Amy Lewis]]></dc:creator>
+		<pubDate>Thu, 10 Aug 2017 21:16:58 +0000</pubDate>
+				<category><![CDATA[Not Podcasts]]></category>
+		<guid isPermaLink="false">/?p=1610</guid>
+
+					<description><![CDATA[Greetings friends of and listeners to the Geek Whisperers. We have some news: at VMworld US 2017 we will record our 140th and final episode. It is not with sadness or exhaustion we end, but a sense of satisfaction in completing what we hope will stand as a helpful body&#8230;]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Greetings friends of and listeners to the Geek Whisperers. We have some news: at VMworld US 2017 we will record our 140th and final episode. </span></p>
+<p><span style="font-weight: 400;">It is not with sadness or exhaustion we end, but a sense of satisfaction in completing what we hope will stand as a helpful body of work. Thank you for listening, for sharing, for creating with us.</span></p>
+<figure id="attachment_201" aria-describedby="caption-attachment-201" style="width: 433px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2013/05/recording_geek_whisperers.jpg"><img fetchpriority="high" decoding="async" class="wp-image-201 " src="/wp-content/uploads/2013/05/recording_geek_whisperers.jpg" alt="" width="433" height="288" srcset="/wp-content/uploads/2013/05/recording_geek_whisperers.jpg 600w, /wp-content/uploads/2013/05/recording_geek_whisperers-300x199.jpg 300w, /wp-content/uploads/2013/05/recording_geek_whisperers-210x139.jpg 210w" sizes="(max-width: 433px) 100vw, 433px" /></a><figcaption id="caption-attachment-201" class="wp-caption-text">Our first live recording back at EMC World 2013</figcaption></figure>
+<p><span style="font-weight: 400;">The show has forged a lifetime bond amongst the hosts, like a family who each has a role&#8211;metrics pusher, org chart hugger, tech philosopher&#8211;we’ll let you assign names and see if they fit. All three of us were always on together (with one very rare exception), even when it was Skyping someone in, or acting like someone was still on the line if they joined late or life made them leave early. The Geek Whisperers evolved together in this fast-paced world, and it has been a gift like no other. </span></p>
+<figure id="attachment_1423" aria-describedby="caption-attachment-1423" style="width: 464px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2016/07/IMG_0187.jpg"><img decoding="async" class="wp-image-1423 " src="/wp-content/uploads/2016/07/IMG_0187.jpg" alt="" width="464" height="348" srcset="/wp-content/uploads/2016/07/IMG_0187.jpg 640w, /wp-content/uploads/2016/07/IMG_0187-300x225.jpg 300w, /wp-content/uploads/2016/07/IMG_0187-467x350.jpg 467w" sizes="(max-width: 464px) 100vw, 464px" /></a><figcaption id="caption-attachment-1423" class="wp-caption-text">Whisperers together at Matt&#8217;s wedding.</figcaption></figure>
+<p><span style="font-weight: 400;">If you’re reading this and have joined us recently, we encourage you to take the time to listen to the catalog of incredible guests we have gathered here. There are some gems that we have referred to and continued to learn from through the years. And if you’re a long-time Geek Whisperers fan, there for the original stickers and the opening tracks, we hope you’ll continue to stay with us until the aptly numbered 140th. </span></p>
+<p>We have 5 incredible episodes to publish and one last one to record, and it&#8217;s back at VMworld. <span style="font-weight: 400;">Just like Twitter, where it all started. 140 characters and episodes later, what a long strange trip it’s been. </span><span style="font-weight: 400;"><strong>Thank you for everything.</strong> </span></p>
+<p><span style="font-weight: 400;">The Geek Whisperers, better known as <a href="http://twitter.com/jtroyer">@jtroyer</a> <a href="http://twitter.com/commsninja">@commsninja</a> and <a href="http://twitter.com/mbbroberg">@mbbroberg</a></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2017/08/what-a-long-strange-trip-its-been/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A note on inclusive language</title>
+		<link>/2015/01/a-note-on-inclusive-language/</link>
+		
+		<dc:creator><![CDATA[Matthew Broberg]]></dc:creator>
+		<pubDate>Wed, 28 Jan 2015 18:22:53 +0000</pubDate>
+				<category><![CDATA[Not Podcasts]]></category>
+		<guid isPermaLink="false">/?p=964</guid>
+
+					<description><![CDATA[I noticed that some episodes lean on “you guys” as the collective noun. It&#8217;s a habit that has longer discussions on the internet than I plan to have here. I&#8217;d just like to admit that it&#8217;s something I noticed and would like to adjust. Thanks for listening. Matt of The Geek&#8230;]]></description>
+										<content:encoded><![CDATA[<p>I noticed that some episodes lean on “you guys” as the collective noun. It&#8217;s a habit that <a href="http://www.economist.com/blogs/johnson/2012/10/slang" target="_blank">has longer discussions</a> on the internet than I plan to have here. I&#8217;d just like to admit that it&#8217;s something I noticed and would like to adjust.</p>
+<p>Thanks for listening.</p>
+<p>Matt of The Geek Whisperers</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>You Lead. Who Follows?</title>
+		<link>/2014/07/you-lead-who-follows/</link>
+					<comments>/2014/07/you-lead-who-follows/#respond</comments>
+		
+		<dc:creator><![CDATA[Josh Atwell]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2014 13:46:09 +0000</pubDate>
+				<category><![CDATA[Not Podcasts]]></category>
+		<guid isPermaLink="false">/?p=718</guid>
+
+					<description><![CDATA[Hi. My name is Josh Atwell. At this moment I have 3,899 followers of my personal Twitter account, @Josh_Atwell. Many may find this to be a large number while others may struggle to recall the day when they had so few followers. I assure you that I don&#8217;t consider my&#8230;]]></description>
+										<content:encoded><![CDATA[<p>Hi. My name is Josh Atwell. At this moment I have 3,899 followers of my personal Twitter account, <a href="http://www.twitter.com/josh_atwell" target="_blank">@Josh_Atwell</a>. Many may find this to be a large number while others may struggle to recall the day when they had so few followers. I assure you that I don&#8217;t consider my follower count something to boast about and if you&#8217;re an avid follower of the Geek Whisperers you probably understand the loose value of this metric. That being said I have a confession to make. I block followers.</p>
+<p>I get mixed reactions when I share this bit of personal insight. Reactions range from curiosity about the &#8216;why&#8217; of my door-shutting behavior to outright confusion over my apparent misunderstanding of the platform. Twitter, after all, is a very public broadcast platform. What value could I possibly have in blocking accounts who follow me? The key for me is that when I broadcast my thoughts, tips, opinions, jokes, memes, and all that makes my Twitter feed it is for people.</p>
+<p><a href="/wp-content/uploads/2014/07/FollowBackGirl.jpg"><img decoding="async" class="alignright size-full wp-image-724" src="/wp-content/uploads/2014/07/FollowBackGirl.jpg" alt="FollowBackGirl" width="281" height="211" srcset="/wp-content/uploads/2014/07/FollowBackGirl.jpg 281w, /wp-content/uploads/2014/07/FollowBackGirl-210x157.jpg 210w" sizes="(max-width: 281px) 100vw, 281px" /></a></p>
+<p><strong>FOLLOW ME. I FOLLOW BACK!</strong><br />
+Twitter is full of silly accounts, rappers looking to make it big, want-to-be starlets, pseudo-companies looking to sell domain names, bots, teenagers, and just generally noisy accounts.</p>
+<p>I consider the bulk of these accounts to be SPAM and when identified in my thread it receives a discriminatory block. I also do not follow back these accounts, but that&#8217;s probably for another post. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> I can only surmise that they are following me because:</p>
+<ol>
+<li>I said something witty on a trending hashtag</li>
+<li>I have a subliminal connection and love of Justin Bieber (hoping not)</li>
+<li>I have tremendous influence in the rap/acting scene</li>
+<li>They are trying to find folks to follow back to increase their follow count</li>
+</ol>
+<p>Net result is I do not see RTs, Favorites, or engagement from these accounts. It would seem the broadcast of my thoughts essentially falls on deaf ears with them. I find this to be clutter rather than social interaction, for both of us. I want to engage with people, share information, and gain knowledge. To that end I consider the act of blocking to be trimming the fat and maintaining more opportunities to accomplish my Twitter goals:</p>
+<ol>
+<li>Connect with People</li>
+<li>Share my knowledge, thoughts, and experiences</li>
+<li>Learn from others’ knowledge, thoughts, and experiences</li>
+</ol>
+<p><strong><img loading="lazy" decoding="async" class="aligncenter wp-image-725 size-full" src="/wp-content/uploads/2014/07/shall-we-play-a-game.jpg" alt="shall-we-play-a-game" width="606" height="406" srcset="/wp-content/uploads/2014/07/shall-we-play-a-game.jpg 606w, /wp-content/uploads/2014/07/shall-we-play-a-game-300x200.jpg 300w, /wp-content/uploads/2014/07/shall-we-play-a-game-210x140.jpg 210w" sizes="(max-width: 606px) 100vw, 606px" /></strong></p>
+<p><strong>The only winning move is not to play</strong><br />
+Sometimes folks get too wrapped up in the numbers. I&#8217;ve seen more than a few instances of tremendous Twitter following growth in a short period of time. Twitter is organic and I have to believe, looking at the account, some payment was made to gain those followers. I fail to see how that increases the value of the engagement and relative influence of the person or the account. It&#8217;s simply gaming the system. In this respect I would rather not game the system and believe that any reported numbersaround influence or reach of my account are genuine. I suppose there could be some pride to be had in this, but that generally leads to thinking you&#8217;re a big deal.</p>
+<p>I&#8217;m not a robot myself so I can&#8217;t say that my follower base is &#8220;pure&#8221; by any means, but I try to keep it limited to real people. People like you. That being said, if you have found this post interesting and are curious about what other thoughts or outright silliness I may be broadcasting to the world; please follow me on Twitter at <a href="http://www.twitter.com/josh_atwell" target="_blank">@Josh_Atwell</a>. Chances are I won&#8217;t block you and I may even follow back. Finally, I’d like to thank the Geek Whisperers for allowing me the opportunity to write a guest post. #HappyPanda</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2014/07/you-lead-who-follows/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Geek Whisperers How-to: How Matt Edits</title>
+		<link>/2013/11/geek-whisperers-how-to-how-matt-edits/</link>
+					<comments>/2013/11/geek-whisperers-how-to-how-matt-edits/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthew Broberg]]></dc:creator>
+		<pubDate>Sun, 24 Nov 2013 02:44:52 +0000</pubDate>
+				<category><![CDATA[Not Podcasts]]></category>
+		<guid isPermaLink="false">/?p=392</guid>
+
+					<description><![CDATA[As we take a week off from our regular podcasting, we want to offer you some insight into how we produce the show. We have a system in Geek Whisperers where we each play a role: Amy runs point on outreach, John and I take turns on edits. In today&#8217;s post, I&#8230;]]></description>
+										<content:encoded><![CDATA[<p>As we take a week off from our regular podcasting, we want to offer you some insight into how we produce the show.</p>
+<p>We have a system in Geek Whisperers where we each play a role: Amy runs point on outreach, John and I take turns on edits. In today&#8217;s post, I want to show you how I edit in 5 steps.</p>
+<p><iframe loading="lazy" src="//www.youtube.com/embed/OfVYm7QxLN4?list=PLnqRQE1elfWL3RxC6grg_7FGnRO7ZRKHE" height="315" width="560" allowfullscreen="" frameborder="0"></iframe><br />
+So as you can see, we go from <a href="http://www.callburner.com/prerequisites">Callburner</a> to GarageBand to <a href="http://audacity.sourceforge.net/download/">Audacity</a> to <a href="http://download.cnet.com/The-Levelator/3000-2170_4-143304.html">Levelator</a> to here.</p>
+<p>One more point worth noting: you may get in the situation where you want to export separate audio tracks from a single GarageBand recording. Here&#8217;s a good hack to separate each part out without other tools:</p>
+<ul>
+<li>Complete edits on the part of the podcast you want to have exported</li>
+<li>Cmd + A to select all tracks</li>
+<li>Shift + click on<strong> the parts you want to export</strong> as a podcast (the ones you just edited above)</li>
+<li>Cmd + X to remove everything selected</li>
+<li>Share &gt; Export Podcast to Disk</li>
+<li>Once complete, Cmd + Z to bring back the other audio</li>
+<li>Delete the snippets of what you just exported</li>
+<li>Repeat as needed</li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/11/geek-whisperers-how-to-how-matt-edits/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Social Happening Roundup</title>
+		<link>/2013/06/social-happening-roundup/</link>
+					<comments>/2013/06/social-happening-roundup/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthew Broberg]]></dc:creator>
+		<pubDate>Sat, 01 Jun 2013 00:30:18 +0000</pubDate>
+				<category><![CDATA[Not Podcasts]]></category>
+		<guid isPermaLink="false">/?p=206</guid>
+
+					<description><![CDATA[Your regular Whisperers of all things geek have been globetrotting over the last few weeks, leaving us with a brief respite from podcast uploads. That noted, we thought we&#8217;d leave you with some fun places that have kept us busy:  Take another look at John Troyer&#8216;s big vExpert announcement, and&#8230;]]></description>
+										<content:encoded><![CDATA[<p>Your regular Whisperers of all things geek have been globetrotting over the last few weeks, leaving us with a brief respite from podcast uploads. That noted, we thought we&#8217;d leave you with some fun places that have kept us busy:</p>
+<ol>
+<li> Take another look at <strong>John Troyer</strong>&#8216;s big <a href="http://blogs.vmware.com/vmtn/2013/05/vexpert-2013-awardees-announced.html">vExpert announcement</a>, and go <a href="https://www.cloudcredibility.com/tasks/list?badge_id=8">check out Cloud Credibility</a> to see the (unofficial) list of activities that some see as essential to being a strong candidate.</li>
+<li><strong>Amy Lewis</strong> is coming back from Citrix Synergy and is sure to have exciting content on the horizon. Keep an eye out for new episodes of <a href="http://www.youtube.com/engineersunplugged">Engineers Unplugged</a>.</li>
+<li>Lastly, I&#8217;ve been working on a series of <a href="http://itechthereforeiam.com/2013/05/tweetbot-how-to-finale/">posts around Tweetbot for OS X</a> and my personal Twitter strategy.</li>
+</ol>
+<p>And just for fun, enjoy this rare picture of the majestic Siamese Unicorn.</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2013/06/siamese-unicorn.jpg"><img loading="lazy" decoding="async" class="aligncenter  wp-image-207" alt="siamese unicorn" src="/wp-content/uploads/2013/06/siamese-unicorn.jpg" width="614" height="614" srcset="/wp-content/uploads/2013/06/siamese-unicorn.jpg 1024w, /wp-content/uploads/2013/06/siamese-unicorn-150x150.jpg 150w, /wp-content/uploads/2013/06/siamese-unicorn-300x300.jpg 300w, /wp-content/uploads/2013/06/siamese-unicorn-210x210.jpg 210w" sizes="(max-width: 614px) 100vw, 614px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/06/social-happening-roundup/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Podcast 2 Addendum: Social Media Activation Kits</title>
+		<link>/2013/04/podcast-2-addendum-social-media-activation-kits/</link>
+					<comments>/2013/04/podcast-2-addendum-social-media-activation-kits/#comments</comments>
+		
+		<dc:creator><![CDATA[Matthew Broberg]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2013 17:16:29 +0000</pubDate>
+				<category><![CDATA[Not Podcasts]]></category>
+		<guid isPermaLink="false">/?p=155</guid>
+
+					<description><![CDATA[I mentioned way back in Podcast 2 about the Social Media Activation Kits (SMAKs) used to coordinate social launches at EMC. I&#8217;ve since had time to clean up some of what we use to share with you, dear audience. As my fellow Geek Whisperers do in their communities with VMware and Cisco,&#8230;]]></description>
+										<content:encoded><![CDATA[<p>I mentioned way back in <a title="Podcast 2: First You Have to Show Up" href="/2013/03/podcast-2-first-you-have-to-show-up/">Podcast 2</a> about the Social Media Activation Kits (SMAKs) used to coordinate social launches at EMC. I&#8217;ve since had time to clean up some of what we use to share with you, dear audience.</p>
+<p>As my fellow Geek Whisperers do in their communities with <a href="http://communities.vmware.com/">VMware</a> and <a href="http://communities.cisco.com/">Cisco</a>, I post on a Jive-based platform at the <a href="http://community.emc.com/">EMC Community Network</a>. To make this process as easy as possible, I copy and paste the HTML directly into a document, then start editing. <a href="https://www.evernote.com/shard/s40/sh/24e18560-f13b-4d64-b0b1-48e74de082d0/4742bcb4e08869421cbf9535e4ce548d">You can copy the HTML from here</a>.</p>
+<p>Here are a couple examples of how it looks in practice from our Flash launch:</p>
+<figure id="attachment_158" aria-describedby="caption-attachment-158" style="width: 714px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2013/04/Screen-Shot-2013-04-21-at-1.11.15-PM.png"><img loading="lazy" decoding="async" class="size-full wp-image-158" alt="Social Media Activation image" src="/wp-content/uploads/2013/04/Screen-Shot-2013-04-21-at-1.11.15-PM.png" width="714" height="278" srcset="/wp-content/uploads/2013/04/Screen-Shot-2013-04-21-at-1.11.15-PM.png 714w, /wp-content/uploads/2013/04/Screen-Shot-2013-04-21-at-1.11.15-PM-300x116.png 300w, /wp-content/uploads/2013/04/Screen-Shot-2013-04-21-at-1.11.15-PM-210x81.png 210w" sizes="(max-width: 714px) 100vw, 714px" /></a><figcaption id="caption-attachment-158" class="wp-caption-text">A straight forward header with links.</figcaption></figure>
+<p>&nbsp;</p>
+<figure id="attachment_157" aria-describedby="caption-attachment-157" style="width: 717px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2013/04/Screen-Shot-2013-04-21-at-1.11.04-PM.png"><img loading="lazy" decoding="async" class="size-full wp-image-157" alt="Social Media Activation Kit Tweets" src="/wp-content/uploads/2013/04/Screen-Shot-2013-04-21-at-1.11.04-PM.png" width="717" height="552" srcset="/wp-content/uploads/2013/04/Screen-Shot-2013-04-21-at-1.11.04-PM.png 717w, /wp-content/uploads/2013/04/Screen-Shot-2013-04-21-at-1.11.04-PM-300x230.png 300w, /wp-content/uploads/2013/04/Screen-Shot-2013-04-21-at-1.11.04-PM-210x161.png 210w" sizes="(max-width: 717px) 100vw, 717px" /></a><figcaption id="caption-attachment-157" class="wp-caption-text">Tweets setup and designed for different regions before launch</figcaption></figure>
+<p><a href="/wp-content/uploads/2013/04/Screen-Shot-2013-04-21-at-1.11.15-PM.png"> </a></p>
+<p>Without further adieu, here is the template I use:</p>
+<p>&lt;!&#8211; Begin SMAK &#8211;!&gt;</p>
+<p>The following document outlines the social media plan related to [INSERT PROJECT / EVENT NAME].  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet. Aenean consectetur mollis auctor. Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus. Aliquam convallis, est eget cursus placerat, nunc nunc convallis velit, sit amet convallis elit justo vitae quam. Sed lacus lorem, feugiat sit amet malesuada fermentum, tincidunt a nibh. Fusce semper, lectus ac dignissim pulvinar, quam lacus egestas lectus, vitae laoreet massa metus vitae dolo.</p>
+<p>You can help support this project in X ways:</p>
+<p>&nbsp;</p>
+<table border="0" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td valign="top">1 TBD</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</td>
+<td valign="top" width="25%">2 TBD</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</td>
+<td valign="top" width="25%">3 TBD</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Initiative Overview</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet. Aenean consectetur mollis auctor. Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus. Aliquam convallis, est eget cursus placerat, nunc nunc convallis velit, sit amet convallis elit justo vitae quam. Sed lacus lorem, feugiat sit amet malesuada fermentum, tincidunt a nibh. Fusce semper, lectus ac dignissim pulvinar, quam lacus egestas lectus, vitae laoreet massa metus vitae dolo</p>
+<p>&nbsp;</p>
+<p align="center">________________________________________________________________________________________</p>
+<h2>Social Plan</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet. Aenean consectetur mollis auctor. Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus. Aliquam convallis, est eget cursus placerat, nunc nunc convallis velit, sit amet convallis elit justo vitae quam. Sed lacus lorem, feugiat sit amet malesuada fermentum, tincidunt a nibh. Fusce semper, lectus ac dignissim pulvinar, quam lacus egestas lectus, vitae laoreet massa metus vitae dolo.</p>
+<p>&nbsp;</p>
+<p align="center">________________________________________________________________________________________</p>
+<h2>Timeline</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet. Aenean consectetur mollis auctor. Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus. Aliquam convallis, est eget cursus placerat, nunc nunc convallis velit, sit amet convallis elit justo vitae quam. Sed lacus lorem, feugiat sit amet malesuada fermentum, tincidunt a nibh. Fusce semper, lectus ac dignissim pulvinar, quam lacus egestas lectus, vitae laoreet massa metus vitae dolo.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<td><strong>XX/XX</strong></p>
+<p>&nbsp;</p>
+<p><strong>PHASE</strong></td>
+<td>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat.</li>
+<li>Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</li>
+<li>Aenean consectetur mollis auctor.</li>
+<li>Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>XX/XX</strong></p>
+<p>&nbsp;</p>
+<p><strong>PHASE</strong></td>
+<td>
+<ul>
+<li>orem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat.</li>
+<li>Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</li>
+<li>Aenean consectetur mollis auctor.</li>
+<li>Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>XX/XX</strong></p>
+<p>&nbsp;</p>
+<p><strong>PHASE</strong></td>
+<td>
+<ul>
+<li>orem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat.</li>
+<li>Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</li>
+<li>Aenean consectetur mollis auctor.</li>
+<li>Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>XX/XX</strong></p>
+<p>&nbsp;</p>
+<p><strong>PHASE</strong></td>
+<td>
+<ul>
+<li>orem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat.</li>
+<li>Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</li>
+<li>Aenean consectetur mollis auctor.</li>
+<li>Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p align="center">________________________________________________________________________________________</p>
+<h2>Key Accounts</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet. Aenean consectetur mollis auctor. Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus. Aliquam convallis, est eget cursus placerat, nunc nunc convallis velit, sit amet convallis elit justo vitae quam. Sed lacus lorem, feugiat sit amet malesuada fermentum, tincidunt a nibh. Fusce semper, lectus ac dignissim pulvinar, quam lacus egestas lectus, vitae laoreet massa metus vitae dolo.</p>
+<p>&nbsp;</p>
+<table border="0" cellspacing="0" cellpadding="5">
+<tbody>
+<tr>
+<td><a><img decoding="async" alt="Twitter" src="http://one.emc.com/clearspace/servlet/JiveServlet/downloadImage/102-58036-124-38640/Twitter-icon1.png" width="50" /></a></td>
+<td><a><img decoding="async" alt="Facebook" src="http://one.emc.com/clearspace/servlet/JiveServlet/downloadImage/102-58036-124-38641/facebook-icon.png" width="50" /></a></td>
+<td><a><img decoding="async" alt="YouTube" src="http://one.emc.com/clearspace/servlet/JiveServlet/downloadImage/102-58036-124-38642/youtube_icon3.png" width="50" /></a></td>
+<td><a><img alt="Other" width="50" /></a>[INSERT ICON]</td>
+</tr>
+<tr>
+<td><strong>Direct Link:</strong></p>
+<p><a target="_blank">http://twitter.com/TBD</a></p>
+<p>&nbsp;</p>
+<p><strong>Trackable Link:</strong></p>
+<p><a target="_blank">[TRACKABLE LINK]</a></td>
+<td><strong>Direct Link:</strong></p>
+<p><a target="_blank">http://facebook.com/TBD</a></p>
+<p>&nbsp;</p>
+<p><strong>Trackable Link:</strong></p>
+<p><a target="_blank">[TRACKABLE LINK}</a></td>
+<td><strong>Direct Link:</strong></p>
+<p><a target="_blank">http://youtube.com/TBD</a></p>
+<p>&nbsp;</p>
+<p><strong>Trackable Link:</strong></p>
+<p><a target="_blank">[TRACKABLE LINK]</a></td>
+<td><strong>Direct Link:</strong></p>
+<p><a target="_blank">http://TBD/</a></p>
+<p>&nbsp;</p>
+<p><strong>Trackable Link:</strong></p>
+<p><a target="_blank">[TRACKABLE LINK]</a></td>
+</tr>
+<tr>
+<td><strong>Description:</strong></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</td>
+<td><strong>Description:</strong></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</td>
+<td><strong>Description:</strong></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</td>
+<td><strong>Description:</strong></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</td>
+</tr>
+</tbody>
+</table>
+<p align="center">________________________________________________________________________________________</p>
+<h2>Key Hashtags</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet. Aenean consectetur mollis auctor. Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus. Aliquam convallis, est eget cursus placerat, nunc nunc convallis velit, sit amet convallis elit justo vitae quam. Sed lacus lorem, feugiat sit amet malesuada fermentum, tincidunt a nibh. Fusce semper, lectus ac dignissim pulvinar, quam lacus egestas lectus, vitae laoreet massa metus vitae dolo.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<td><strong>#InsertHashtag</strong></td>
+<td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</td>
+</tr>
+<tr>
+<td><strong>#InsertHashtag</strong></td>
+<td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</td>
+</tr>
+<tr>
+<td><strong>#InsertHashtag</strong></td>
+<td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</td>
+</tr>
+<tr>
+<td><strong>#InsertHashtag</strong></td>
+<td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p align="center">________________________________________________________________________________________</p>
+<h2>Social Content Inventory</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet. Aenean consectetur mollis auctor. Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus. Aliquam convallis, est eget cursus placerat, nunc nunc convallis velit, sit amet convallis elit justo vitae quam. Sed lacus lorem, feugiat sit amet malesuada fermentum, tincidunt a nibh. Fusce semper, lectus ac dignissim pulvinar, quam lacus egestas lectus, vitae laoreet massa metus vitae dolo.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th align="center" valign="middle">Content Description / Owner</th>
+<th align="center" valign="middle">Suggested Tweets</th>
+</tr>
+<tr>
+<td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</p>
+<p>&nbsp;</p>
+<p>Owner: TBD</td>
+<td>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat.</li>
+<li>Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</p>
+<p>&nbsp;</p>
+<p>Owner: TBD</td>
+<td>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat.</li>
+<li>Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</p>
+<p>&nbsp;</p>
+<p>Owner: TBD</td>
+<td>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat.</li>
+<li>Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</p>
+<p>&nbsp;</p>
+<p>Owner: TBD</td>
+<td>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat.</li>
+<li>Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</p>
+<p>&nbsp;</p>
+<p>Owner: TBD</td>
+<td>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat.</li>
+<li>Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p align="center">________________________________________________________________________________________</p>
+<h2>For Bloggers</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in enim erat. Nunc volutpat scelerisque neque, eget tincidunt odio cursus sit amet. Aenean consectetur mollis auctor. Donec sodales, nulla nec facilisis hendrerit, ligula risus rhoncus orci, eu ultricies orci diam non purus. Aliquam convallis, est eget cursus placerat, nunc nunc convallis velit, sit amet convallis elit justo vitae quam. Sed lacus lorem, feugiat sit amet malesuada fermentum, tincidunt a nibh. Fusce semper, lectus ac dignissim pulvinar, quam lacus egestas lectus, vitae laoreet massa metus vitae dolo.</p>
+<p>&lt;!&#8211; End SMAK &#8211;!&gt;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/04/podcast-2-addendum-social-media-activation-kits/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Welcome.</title>
+		<link>/2013/02/welcome/</link>
+					<comments>/2013/02/welcome/#comments</comments>
+		
+		<dc:creator><![CDATA[Matthew Broberg]]></dc:creator>
+		<pubDate>Fri, 22 Feb 2013 04:01:13 +0000</pubDate>
+				<category><![CDATA[Not Podcasts]]></category>
+		<guid isPermaLink="false">/?p=28</guid>
+
+					<description><![CDATA[You come for the bacon, stay for the podcast.
+
+<a href="/wp-content/uploads/2013/02/baconwhitebackground.jpg"><img class="alignnone size-full wp-image-29" alt="baconwhitebackground" src="/wp-content/uploads/2013/02/baconwhitebackground.jpg" width="660" height="371" /></a>]]></description>
+										<content:encoded><![CDATA[<p>You come for the bacon, stay for the podcast.</p>
+<p><a href="/wp-content/uploads/2013/02/baconwhitebackground.jpg"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-29" alt="baconwhitebackground" src="/wp-content/uploads/2013/02/baconwhitebackground.jpg" width="660" height="371" srcset="/wp-content/uploads/2013/02/baconwhitebackground.jpg 660w, /wp-content/uploads/2013/02/baconwhitebackground-300x168.jpg 300w, /wp-content/uploads/2013/02/baconwhitebackground-210x118.jpg 210w" sizes="(max-width: 660px) 100vw, 660px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2013/02/welcome/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

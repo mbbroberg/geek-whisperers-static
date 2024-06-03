@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	>
+<channel>
+	<title>
+	Comments on: New and Old Communication Platforms in 2015 &#8211; Ep 91	</title>
+	<atom:link href="/2015/06/new-and-old-communication-platforms-in-2015-ep-91/feed/" rel="self" type="application/rss+xml" />
+	<link>/2015/06/new-and-old-communication-platforms-in-2015-ep-91/</link>
+	<description>The Podcast of Technology Careers, Cultures, and Lives</description>
+	<lastBuildDate>Thu, 24 Sep 2015 14:55:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Matthew Brender		</title>
+		<link>/2015/06/new-and-old-communication-platforms-in-2015-ep-91/#comment-78897</link>
+
+		<dc:creator><![CDATA[Matthew Brender]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2015 18:39:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1108#comment-78897</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2015/06/new-and-old-communication-platforms-in-2015-ep-91/#comment-78375&quot;&gt;Darryl Cauldwell&lt;/a&gt;.
+
+Thank you for listening Darryl! You hit many of them. Let me list just a few more. 
+
+SE Radio is one of the best for technical deep dives. I listen to specific episodes when I want to learn a lot: http://www.se-radio.net/
+
+The Goat Farm is a great one for DevOps thinking: http://goatcan.do/
+
+One required addition comes from a friend of the show, Chris Wahl &amp; Ethan Banks: http://packetpushers.net/?s=datanauts]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2015/06/new-and-old-communication-platforms-in-2015-ep-91/#comment-78375">Darryl Cauldwell</a>.</p>
+<p>Thank you for listening Darryl! You hit many of them. Let me list just a few more. </p>
+<p>SE Radio is one of the best for technical deep dives. I listen to specific episodes when I want to learn a lot: <a href="http://www.se-radio.net/" rel="nofollow ugc">http://www.se-radio.net/</a></p>
+<p>The Goat Farm is a great one for DevOps thinking: <a href="http://goatcan.do/" rel="nofollow ugc">http://goatcan.do/</a></p>
+<p>One required addition comes from a friend of the show, Chris Wahl &#038; Ethan Banks: <a href="http://packetpushers.net/?s=datanauts" rel="nofollow ugc">http://packetpushers.net/?s=datanauts</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Darryl Cauldwell		</title>
+		<link>/2015/06/new-and-old-communication-platforms-in-2015-ep-91/#comment-78375</link>
+
+		<dc:creator><![CDATA[Darryl Cauldwell]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2015 07:45:48 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1108#comment-78375</guid>
+
+					<description><![CDATA[Another great episode,  thank you for taking the time to put this out its always fun.
+
+In this episode Matt mentioned a few DevOps podcast recommendations,  those I noted, DevOps Cafe, In Tech We Trust, The Food Fight Show, Bitly Tech, The Changelog &#038; Cloud Cast.  I&#039;ve subscribed to these and will start downloading and listening,  any I missed?]]></description>
+			<content:encoded><![CDATA[<p>Another great episode,  thank you for taking the time to put this out its always fun.</p>
+<p>In this episode Matt mentioned a few DevOps podcast recommendations,  those I noted, DevOps Cafe, In Tech We Trust, The Food Fight Show, Bitly Tech, The Changelog &amp; Cloud Cast.  I&#8217;ve subscribed to these and will start downloading and listening,  any I missed?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

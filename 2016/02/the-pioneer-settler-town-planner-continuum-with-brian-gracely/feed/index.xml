@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	>
+<channel>
+	<title>
+	Comments on: The Pioneer, Settler, Town Planner Continuum with Brian Gracely &#8211; Ep 103	</title>
+	<atom:link href="/2016/02/the-pioneer-settler-town-planner-continuum-with-brian-gracely/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/02/the-pioneer-settler-town-planner-continuum-with-brian-gracely/</link>
+	<description>The Podcast of Technology Careers, Cultures, and Lives</description>
+	<lastBuildDate>Tue, 20 Jun 2023 10:03:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: A Depth and a Breadth with Chris Williams (1/3) &#8211; Nerd Journey		</title>
+		<link>/2016/02/the-pioneer-settler-town-planner-continuum-with-brian-gracely/#comment-138504</link>
+
+		<dc:creator><![CDATA[A Depth and a Breadth with Chris Williams (1/3) &#8211; Nerd Journey]]></dc:creator>
+		<pubDate>Tue, 20 Jun 2023 10:03:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1292#comment-138504</guid>
+
+					<description><![CDATA[[&#8230;] remind him of a model of IT involving pioneers, settlers, and town planners. Nick recalls an episode of the Geek Whisperers podcast on this topic which references some work by Simon [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] remind him of a model of IT involving pioneers, settlers, and town planners. Nick recalls an episode of the Geek Whisperers podcast on this topic which references some work by Simon [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Leveling Up Your Career with Yadin Porter de León &#8211; Nerd Journey		</title>
+		<link>/2016/02/the-pioneer-settler-town-planner-continuum-with-brian-gracely/#comment-133079</link>
+
+		<dc:creator><![CDATA[Leveling Up Your Career with Yadin Porter de León &#8211; Nerd Journey]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2020 10:00:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1292#comment-133079</guid>
+
+					<description><![CDATA[[&#8230;] you are a pioneer, settler, or town planner…find out where you want to fit. There&#8217;s no shame in loving ITIL, for example, if it is [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] you are a pioneer, settler, or town planner…find out where you want to fit. There&#8217;s no shame in loving ITIL, for example, if it is [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

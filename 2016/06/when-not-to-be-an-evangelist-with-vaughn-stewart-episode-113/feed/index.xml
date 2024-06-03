@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	>
+<channel>
+	<title>
+	Comments on: When Not To Be An Evangelist with Vaughn Stewart &#8211; Episode 113	</title>
+	<atom:link href="/2016/06/when-not-to-be-an-evangelist-with-vaughn-stewart-episode-113/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/06/when-not-to-be-an-evangelist-with-vaughn-stewart-episode-113/</link>
+	<description>The Podcast of Technology Careers, Cultures, and Lives</description>
+	<lastBuildDate>Mon, 14 Aug 2017 17:40:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Talking Field CTOs and Sabbaticals with Nick Howell – Episode 135 &#124; The Geek Whisperers		</title>
+		<link>/2016/06/when-not-to-be-an-evangelist-with-vaughn-stewart-episode-113/#comment-120353</link>
+
+		<dc:creator><![CDATA[Talking Field CTOs and Sabbaticals with Nick Howell – Episode 135 &#124; The Geek Whisperers]]></dc:creator>
+		<pubDate>Mon, 14 Aug 2017 17:40:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1396#comment-120353</guid>
+
+					<description><![CDATA[[&#8230;] Reprise: When Not to be an Evangelist with Vaughn Stewart &#8211; Episode 113 [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Reprise: When Not to be an Evangelist with Vaughn Stewart &#8211; Episode 113 [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Back to my technical roots - Virtual to the Core		</title>
+		<link>/2016/06/when-not-to-be-an-evangelist-with-vaughn-stewart-episode-113/#comment-113174</link>
+
+		<dc:creator><![CDATA[Back to my technical roots - Virtual to the Core]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2016 08:00:48 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1396#comment-113174</guid>
+
+					<description><![CDATA[[&#8230;] think one is an Evangelist regardless his title. I&#8217;ve just listened to Episode 113 of the Geek Whisperers Podcast, and one phrase fits perfectly [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] think one is an Evangelist regardless his title. I&#8217;ve just listened to Episode 113 of the Geek Whisperers Podcast, and one phrase fits perfectly [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

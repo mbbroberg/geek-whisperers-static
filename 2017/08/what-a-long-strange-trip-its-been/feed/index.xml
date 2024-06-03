@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+	>
+<channel>
+	<title>
+	Comments on: What a Long Strange Trip It’s Been	</title>
+	<atom:link href="/2017/08/what-a-long-strange-trip-its-been/feed/" rel="self" type="application/rss+xml" />
+	<link>/2017/08/what-a-long-strange-trip-its-been/</link>
+	<description>The Podcast of Technology Careers, Cultures, and Lives</description>
+	<lastBuildDate>Fri, 11 Aug 2017 06:04:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		By: Alex Muetstege - VMGuru		</title>
+		<link>/2017/08/what-a-long-strange-trip-its-been/#comment-120295</link>
+
+		<dc:creator><![CDATA[Alex Muetstege - VMGuru]]></dc:creator>
+		<pubDate>Fri, 11 Aug 2017 06:04:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1610#comment-120295</guid>
+
+					<description><![CDATA[Hey guys,
+I&#039;ve been enjoying Geek Whisperers  for quite some time. Knowing at least 2 of you in person, I&#039;m sure neither of you would have predicted where it all would lead. It&#039;s been an exciting ride, that&#039;s certain. 
+
+Having said that, I hope to see you all again on one of the many events in the world we might attend. Until then, thanks for all the fish  
+
+Greetz,
+
+Alex]]></description>
+			<content:encoded><![CDATA[<p>Hey guys,<br />
+I&#8217;ve been enjoying Geek Whisperers  for quite some time. Knowing at least 2 of you in person, I&#8217;m sure neither of you would have predicted where it all would lead. It&#8217;s been an exciting ride, that&#8217;s certain. </p>
+<p>Having said that, I hope to see you all again on one of the many events in the world we might attend. Until then, thanks for all the fish  </p>
+<p>Greetz,</p>
+<p>Alex</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
